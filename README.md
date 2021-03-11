@@ -1,2 +1,1 @@
-# comparisons-of-sorting-algorithms
-05.04.2020
+In this project, all three sorting algorithms: Heapsort, dualPivotQuickSort and Shellsort are implemented and tested. 
